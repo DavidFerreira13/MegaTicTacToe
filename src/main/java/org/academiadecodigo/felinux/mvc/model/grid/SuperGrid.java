@@ -55,6 +55,7 @@ public class SuperGrid implements Gridable {
                 returnableString += DrawBoardText.cellHorizontalSeparator + "\n";
             }
         }
+        System.out.println(returnableString);
         return returnableString;
     }
 
