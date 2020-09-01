@@ -17,13 +17,3 @@ Everyone organically chose where to work on, and since everyone was following th
 ### Tech && Methodologies
 
 Java 7, Server-Client, Maven, Netcat, IntelliJ, Git, MVC, Concurrency
-
-### Team
-
-Bernardo Costa
-
-[David Ferreira](https://github.com/thepikachu13)
-
-Eduardo Marques
-
-[Joel Silva](https://github.com/joel-nevar)
